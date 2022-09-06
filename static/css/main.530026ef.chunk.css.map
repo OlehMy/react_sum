@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,OACE,YACF,CAEA,KACE,gBAAiB,CACjB,qBAAsB,CACtB,WAAY,CACZ,cACF,CAEA,EACE,iBACF","file":"main.530026ef.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nbody {\n  margin: 20vh auto;\n  background-color: #000;\n  color: coral;\n  font-size: 24px;\n}\n\np {\n  text-align: center;\n}\n"]}
